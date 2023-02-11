@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/stacktrek-portfolio/static/css/main.d7e1f518.css",
+    "main.css": "/stacktrek-portfolio/static/css/main.f430810c.css",
     "main.js": "/stacktrek-portfolio/static/js/main.85d48224.js",
     "static/js/787.128fc6e9.chunk.js": "/stacktrek-portfolio/static/js/787.128fc6e9.chunk.js",
     "static/media/logo.svg": "/stacktrek-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/stacktrek-portfolio/index.html",
-    "main.d7e1f518.css.map": "/stacktrek-portfolio/static/css/main.d7e1f518.css.map",
+    "main.f430810c.css.map": "/stacktrek-portfolio/static/css/main.f430810c.css.map",
     "main.85d48224.js.map": "/stacktrek-portfolio/static/js/main.85d48224.js.map",
     "787.128fc6e9.chunk.js.map": "/stacktrek-portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d7e1f518.css",
+    "static/css/main.f430810c.css",
     "static/js/main.85d48224.js"
   ]
 }
