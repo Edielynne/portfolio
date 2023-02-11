@@ -57,7 +57,7 @@ const Footer = () => {
           ></path>
         </svg>
       </a>
-      <a href="#!" className="mr-9 text-pink-700 hover:text-gray-900">
+      <a href="https://www.instagram.com/edlynbrns/" className="mr-9 text-pink-700 hover:text-gray-900">
         <svg
           aria-hidden="true"
           focusable="false"
@@ -74,7 +74,7 @@ const Footer = () => {
           ></path>
         </svg>
       </a>
-      <a href="#!" className="mr-9 text-pink-700 hover:text-gray-900">
+      <a href="https://www.linkedin.com/in/edielynne-barnes-262b61170/" className="mr-9 text-pink-700 hover:text-gray-900">
         <svg
           aria-hidden="true"
           focusable="false"

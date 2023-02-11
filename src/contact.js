@@ -123,7 +123,7 @@ const Contactus = () => {
 
        
 
-        <div className='mt-8 flex text-center flex-col gap-y-4 border-b pb-5'>
+        <div className='mt-8 flex text-center flex-col gap-y-4 border-b pb-5 '>
             <button   type="submit" disabled={!field} className='active:scale-[0.98] active:duration-75 transition-all hover:scale-[1.01] ease-in-out py-3 rounded-xl bg-pink-500 text-white text-lg font-bold'>
                 Submit
             </button>
@@ -133,7 +133,7 @@ const Contactus = () => {
 
         </div>
        
-        <div className="grid grid-cols-4 mt-10 pt-5  pl-20  justify-center   text-center order-last md:order-first mt-20 md:mt-0 ">
+        <div className="grid grid-cols-4 mt-10 pt-5  pl-10 mt-5  justify-center text-center order-last md:order-first mt-10 md:pl-20 md:mt-0 ">
         
         <div>
         <a href="https://github.com/Edielynne" className="  text-pink-700 hover:text-gray-900 ">
@@ -176,7 +176,7 @@ const Contactus = () => {
         </div>
 
             <div>
-            <a href="#!" className="text-pink-700 hover:text-gray-900">
+            <a href="https://www.linkedin.com/in/edielynne-barnes-262b61170/" className="text-pink-700 hover:text-gray-900">
         <svg
           aria-hidden="true"
           focusable="false"
@@ -196,7 +196,7 @@ const Contactus = () => {
         </div>
 
         <div>
-        <a href="https://www.facebook.com/swimnwaves" className=" text-pink-700 hover:text-gray-900">
+        <a href="https://www.facebook.com/edielynne.barnes" className=" text-pink-700 hover:text-gray-900">
         <svg
           aria-hidden="true"
           focusable="false"

@@ -13,6 +13,7 @@ const Profile = () => {
 
      {<div className="p-10 rounded-3xl bg-white shadow mt-24">
       <div className="grid grid-cols-1 md:grid-cols-3">
+        <div className='grid grid-cols-1 text-center order-last md:order-first mt-0 md:mt-0'>
       <a href= "https://drive.google.com/file/d/12D-_Dxyj4qHyqdLvZNhrBX0IOHuWuQry/view?usp=share_link"  target="_blank">
     <button type="button" title="Via Google Drive" className="w-full flex items-center justify-center text-white bg-gradient-to-b from-pink-300 via-pink-500 to-pink-700 hover:bg-gradient-to-t focus:ring-4 focus:outline-none focus:ring-pink-300 dark:focus:ring-pink-800 font-medium rounded-xl text-sm px-10 py-2.5 text-center mr-1 mb-2 hover:shadow-lg font-medium transition transform hover:-translate-y-0.5">
         <svg fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" className="w-6 h-6">
@@ -23,6 +24,7 @@ const Profile = () => {
       
     </button>
     </a>
+    </div>
    
     <div id="tooltip-default" role="tooltip" class="absolute z-10 invisible inline-block px-3 py-2 text-sm font-medium text-white transition-opacity duration-300 bg-gray-900 rounded-lg shadow-sm opacity-0 tooltip dark:bg-gray-700">
     Tooltip content
