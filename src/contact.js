@@ -156,7 +156,7 @@ const Contactus = () => {
         </div>
 
         <div>
-          <a href="#!" className="text-pink-700 hover:text-gray-900">
+          <a href="https://www.instagram.com/edlynbrns/" className="text-pink-700 hover:text-gray-900">
         <svg
           aria-hidden="true"
           focusable="false"
