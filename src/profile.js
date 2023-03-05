@@ -3,6 +3,7 @@ import Footer from './Footer'
 import Info from './Info'
 import Timeline from './Timeline'
 import {Link} from 'react-router-dom'
+import Projects from './Projects'
 
 const Profile = () => {
   return (
@@ -89,7 +90,7 @@ const Profile = () => {
     <p className="mt-2  text-center text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl mb-10">Work Experiences</p>
     <Timeline/>
     </div>
- 
+    <Projects/>
     <div className="mt-5 ">
     <Footer/>
     </div>
