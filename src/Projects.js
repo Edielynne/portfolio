@@ -69,7 +69,7 @@ const Projects = () => {
                         <div class="w-full md:w-6/12 lg:w-1/3 mb-6 px-6 sm:px-6 lg:px-4">
                             <div class="flex flex-col">
                                 
-                                <a href="http://localhost:3001/" target="blank"class="mx-auto">
+                                <a href="https://github.com/Edielynne/stacktrek-capstone" target="blank"class="mx-auto">
                                     <img class="rounded-2xl drop-shadow-md hover:drop-shadow-xl transition-all duration-200 delay-100 hover:scale-110"
                                         src="https://firebasestorage.googleapis.com/v0/b/geolect-login.appspot.com/o/Ed%2Flogo.png?alt=media&token=8980f60e-d299-440a-9c65-9465f5039c68"/>
                                 </a>
