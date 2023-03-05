@@ -17,7 +17,7 @@ const Routing = () =>{
 
 function App() {
   return (
-    <div className="bg-pink-200 bg-fixed  bg-[url('https://wallpaperaccess.com/full/6158377.gif')] ">
+    <div className="bg-pink-200 bg-fixed  ">
      <Routing/>
     </div>
   );
